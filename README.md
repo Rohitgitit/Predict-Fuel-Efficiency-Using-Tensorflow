@@ -10,7 +10,7 @@
 **-Overfitting Risks:** Ensuring the model generalizes well to unseen data while minimizing overfitting is a key challenge.
 
 ## Tackling the Challenges
-**-Advanced Modeling: **Implemented a TensorFlow model with optimized architecture and dropout regularization to capture complex patterns in the data.
+**-Advanced Modeling: ** Implemented a TensorFlow model with optimized architecture and dropout regularization to capture complex patterns in the data.
 
 **-Data Preprocessing:** Utilized data cleaning and preprocessing techniques to enhance input quality and reduce missing values by 20%.
 
@@ -26,9 +26,9 @@ This project focuses on predicting fuel efficiency using machine learning techni
 
 **-Keras:** Leveraged for creating and optimizing neural network architectures.
 
-**-Pandas & NumPy: **Used for data manipulation and preprocessing tasks to ensure clean and formatted input.
+**-Pandas & NumPy: ** Used for data manipulation and preprocessing tasks to ensure clean and formatted input.
 
-**-Matplotlib & Seaborn: **Employed for data visualization to understand relationships and trends within the dataset.
+**-Matplotlib & Seaborn: ** Employed for data visualization to understand relationships and trends within the dataset.
 
 ## Challenges & Future Work
 
